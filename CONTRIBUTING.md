@@ -34,7 +34,7 @@ There are several ways to contribute to To-Do-List:
    ```
 
 6. **Submit a Pull Request**: 
-   - Go to the [EyeProtection repository](https://github.com/Nandika-A/To-Do-List).
+   - Go to the [To-Do-List repository](https://github.com/Nandika-A/To-Do-List).
    - Click on "Compare & pull request" for your branch.
    - Fill in the PR template with details of your contribution.
 
